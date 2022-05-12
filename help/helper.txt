@@ -1,0 +1,26 @@
+--------------------------------------------------------------------
+            Something went wrong? Look at the guide below
+--------------------------------------------------------------------
+
+        SYNTAX for converting an Input Image to its Negative:
+
+
+        [USAGE]
+        
+                ./converter INPUT_IMAGE_NAME.BMP
+
+        Details:
+        
+        INPUT_IMAGE_NAME  -  NAME OF THE INPUT IMAGE IN .BMP FORMAT
+
+        
+        [RESULT]
+
+        OUTPUT FILE:
+                
+                 negative.bmp
+
+        Note: Input image should be uncompressed 24 bits/pixel image
+--------------------------------------------------------------------
+                        Press Enter Key To EXIT
+--------------------------------------------------------------------
