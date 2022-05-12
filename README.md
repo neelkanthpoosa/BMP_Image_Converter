@@ -48,8 +48,7 @@
 ------------------------------------------------------------------------
 ### Execution File
 ------------------------------------------------------------------------
-    - Alternatively, you can run the shell script to create C execution 
-    file and execute the C program:
+- Alternatively, you can run the shell script to create C execution file and execute the C program:
 
            sh run.sh
 
@@ -91,7 +90,7 @@
    Hence, the tool doesn't support serialized passing of input images.
 
   This implies, only one input can be passed per execution.
-  And the corresponding output is seen as "negative.bmp" after successfully conversion.
+  And the corresponding output is seen as "negative.bmp" after successful conversion.
 
 
 
